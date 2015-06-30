@@ -1,0 +1,26 @@
+{
+  "name": "requestAnimationFrameRate",
+  "main": "requestAnimationFrameRate.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/sroucheray/requestAnimationFrameRate",
+  "authors": [
+    "@sroucheray"
+  ],
+  "description": "Sometimes you need to render at a specific frame rate.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "requestAnimationFame",
+    "render",
+    "framerate"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

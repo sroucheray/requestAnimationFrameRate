@@ -1,0 +1,24 @@
+{
+  "name": "requestanimation-framerate",
+  "version": "1.0.0",
+  "description": "Sometimes you need to render at a specific frame rate.",
+  "main": "requestAnimationFrameRate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sroucheray/requestAnimationFrameRate.git"
+  },
+  "keywords": [
+    "requestAnimationFame",
+    "render",
+    "framerate"
+  ],
+  "author": "@sroucheray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sroucheray/requestAnimationFrameRate/issues"
+  },
+  "homepage": "https://github.com/sroucheray/requestAnimationFrameRate#readme"
+}
